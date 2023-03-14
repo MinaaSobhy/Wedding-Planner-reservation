@@ -1,0 +1,20 @@
+﻿  3_47_4_22.cpp
+D:\Studies\Collage\Year 2\Semester 2\CMP 1171\Project\3_47_4_22\3_47_4_22\3_47_4_22.cpp(34,5): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Studies\Collage\Year 2\Semester 2\CMP 1171\Project\3_47_4_22\3_47_4_22\3_47_4_22.cpp(35,5): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Studies\Collage\Year 2\Semester 2\CMP 1171\Project\3_47_4_22\3_47_4_22\3_47_4_22.cpp(36,5): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Studies\Collage\Year 2\Semester 2\CMP 1171\Project\3_47_4_22\3_47_4_22\3_47_4_22.cpp(59,23): warning C4018: '<': signed/unsigned mismatch
+D:\Studies\Collage\Year 2\Semester 2\CMP 1171\Project\3_47_4_22\3_47_4_22\3_47_4_22.cpp(84,9): error C3861: 'stof': identifier not found
+D:\Studies\Collage\Year 2\Semester 2\CMP 1171\Project\3_47_4_22\3_47_4_22\3_47_4_22.cpp(93,9): error C3861: 'stof': identifier not found
+D:\Studies\Collage\Year 2\Semester 2\CMP 1171\Project\3_47_4_22\3_47_4_22\3_47_4_22.cpp(93,39): error C3861: 'stof': identifier not found
+D:\Studies\Collage\Year 2\Semester 2\CMP 1171\Project\3_47_4_22\3_47_4_22\3_47_4_22.cpp(93,63): error C3861: 'stof': identifier not found
+D:\Studies\Collage\Year 2\Semester 2\CMP 1171\Project\3_47_4_22\3_47_4_22\3_47_4_22.cpp(98,9): error C3861: 'stoi': identifier not found
+D:\Studies\Collage\Year 2\Semester 2\CMP 1171\Project\3_47_4_22\3_47_4_22\3_47_4_22.cpp(124,9): error C3861: 'stof': identifier not found
+D:\Studies\Collage\Year 2\Semester 2\CMP 1171\Project\3_47_4_22\3_47_4_22\3_47_4_22.cpp(134,9): error C3861: 'stof': identifier not found
+D:\Studies\Collage\Year 2\Semester 2\CMP 1171\Project\3_47_4_22\3_47_4_22\3_47_4_22.cpp(142,31): error C3861: 'stof': identifier not found
+D:\Studies\Collage\Year 2\Semester 2\CMP 1171\Project\3_47_4_22\3_47_4_22\3_47_4_22.cpp(150,14): error C3861: 'stof': identifier not found
+D:\Studies\Collage\Year 2\Semester 2\CMP 1171\Project\3_47_4_22\3_47_4_22\3_47_4_22.cpp(150,30): error C3861: 'stof': identifier not found
+D:\Studies\Collage\Year 2\Semester 2\CMP 1171\Project\3_47_4_22\3_47_4_22\3_47_4_22.cpp(160,33): error C3861: 'stof': identifier not found
+D:\Studies\Collage\Year 2\Semester 2\CMP 1171\Project\3_47_4_22\3_47_4_22\3_47_4_22.cpp(170,25): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\Studies\Collage\Year 2\Semester 2\CMP 1171\Project\3_47_4_22\3_47_4_22\3_47_4_22.cpp(173,55): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Studies\Collage\Year 2\Semester 2\CMP 1171\Project\3_47_4_22\3_47_4_22\3_47_4_22.cpp(175,16): error C3861: 'stoi': identifier not found
+D:\Studies\Collage\Year 2\Semester 2\CMP 1171\Project\3_47_4_22\3_47_4_22\3_47_4_22.cpp(177,26): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
